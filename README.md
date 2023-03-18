@@ -10,8 +10,10 @@
 <a href="https://github.com/ItsFoxDev/FoxCMD">FoxCMD</a> • 
 <a href="https://github.com/ItsFoxDev/Userscripts">Userscripts</a>
 </h5>
+
+<h5 align="center"><img style="border-radius:5x;" align="center" src="https://github-readme-stats.vercel.app/api?username=itsfoxdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></img></h5>
+
 <!--
-[![ItsFoxDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsfoxdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/ItsFoxDev/)
 
 **ItsFoxDev/ItsFoxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
